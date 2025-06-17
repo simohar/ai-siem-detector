@@ -1,4 +1,8 @@
-*.zip
 *.csv
-logs/
-temp/
+*.pkl
+*.pcap
+*.zip
+
+
+data/
+
